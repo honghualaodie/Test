@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #remove .project
+=======
+# ignore .project created by HBuilder
+>>>>>>> 1c3520bc0b63577f473c02a9d092542907c3098c
 .project
